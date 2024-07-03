@@ -3,7 +3,9 @@ Stable Diffusion From Scratch Using PyTorch
 
 How to use: 
 Clone the repo on your machine
+
 "https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main"
+
 Download following files from above link:
 1. merges.txt and vocab.json from tokenizer folder
 2. v1-5-pruned-emaonly.ckpt
